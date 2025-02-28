@@ -1,1 +1,1 @@
-web: gunicorn django_walkthrough.wsgi
+web: gunicorn my_project.wsgi
